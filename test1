@@ -1,2 +1,6 @@
 this is test1 file   
+<<<<<<< HEAD
 first edit from workinng area1
+=======
+first change
+>>>>>>> 07db3540a2a518faf8a978c2f6cb51e2ad80b094
